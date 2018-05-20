@@ -1,0 +1,44 @@
+Total download size: 24 M
+Installed size: 31 M
+Downloading packages:
+warning: /var/cache/yum/x86_64/7/base/packages/apr-1.4.8-3.el7_4.1.x86_64.rpm: Header V3 RSA/SHA256 Signature, key ID f4a80eb5: NOKEY
+Public key for apr-1.4.8-3.el7_4.1.x86_64.rpm is not installed
+--------------------------------------------------------------------------------
+Total                                              6.4 MB/s |  24 MB  00:03
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Importing GPG key 0xF4A80EB5:
+ Userid     : "CentOS-7 Key (CentOS 7 Official Signing Key) <security@centos.org>"
+ Fingerprint: 6341 ab27 53d7 8a78 a7c2 7bb1 24c6 a8a7 f4a8 0eb5
+ Package    : centos-release-7-4.1708.el7.centos.x86_64 (@CentOS)
+ From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+Running transaction check
+Running transaction test
+Transaction test succeeded
+
+
+
+Total download size: 13 M
+Installed size: 51 M
+Downloading packages:
+warning: /var/cache/yum/x86_64/7/epel/packages/libargon2-20161029-2.el7.x86_64.rpm: Header V3 RSA/SHA256 Signature, key ID 352c64e5: NOKEY
+Public key for libargon2-20161029-2.el7.x86_64.rpm is not installed
+warning: /var/cache/yum/x86_64/7/remi-safe/packages/gd-last-2.2.5-2.el7.remi.x86_64.rpm: Header V4 DSA/SHA1 Signature, key ID 00f97f56: NOKEY
+Public key for gd-last-2.2.5-2.el7.remi.x86_64.rpm is not installed
+Public key for php-gd-7.2.5-1.el7.remi.x86_64.rpm is not installed
+--------------------------------------------------------------------------------
+Total                                              1.9 MB/s |  13 MB  00:07
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Importing GPG key 0x352C64E5:
+ Userid     : "Fedora EPEL (7) <epel@fedoraproject.org>"
+ Fingerprint: 91e9 7d7c 4a5e 96f1 7f3e 888f 6a2f aea2 352c 64e5
+ Package    : epel-release-7-11.noarch (@extras)
+ From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-remi
+Importing GPG key 0x00F97F56:
+ Userid     : "Remi Collet <RPMS@FamilleCollet.com>"
+ Fingerprint: 1ee0 4cce 88a4 ae4a a29a 5df5 004e 6f47 00f9 7f56
+ Package    : remi-release-7.4-2.el7.remi.noarch (installed)
+ From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-remi
+Running transaction check
+Running transaction test
+Transaction test succeeded
